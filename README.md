@@ -1,0 +1,41 @@
+<h3 align="left">Github Stats </h3>
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/andricevaaa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/andricevaaa/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+<h3 align="left">Streak</h3>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andricevaaa&" alt="p01n73r" />
+</p>
+
+<h3 align="left">Languages and Tools :</h3>
+
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+  </a>
+
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+</p>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.qt.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/225px-Qt_logo_2016.svg.png" alt="Qt" width="40" height="40"/> 
+  </a>
+
+  </a>
+</p>
+ 
