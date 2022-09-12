@@ -7,9 +7,10 @@
 
 </a>
 
-<h3 align="left">Streak</h3>
+<h3 align="left">Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andricevaaa&" alt="p01n73r" />
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andricevaaa&theme=light" alt="andricevaaa" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andricevaaa&show_icons=true&locale=en&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=fff&hide=html,javascript,tex" alt="andricevaaa" />
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
