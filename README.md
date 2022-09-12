@@ -1,4 +1,4 @@
-<h3 align="left">Github Stats </h3>
+<h3 align="left">Github Info </h3>
 
 <a href="https://github.com/jstrieb/github-stats">
 
